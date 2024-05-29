@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\franc\\Desktop\\Programacion\\ComposicionSobreHerencia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80F1BC68-121B-41B4-AB99-0CAD4C4C5FA4}|ComposicionSobreHerencia\\ComposicionSobreHerencia.csproj|C:\\Users\\franc\\Desktop\\Programacion\\ComposicionSobreHerencia\\composicionsobreherencia\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F1BC68-121B-41B4-AB99-0CAD4C4C5FA4}|ComposicionSobreHerencia\\ComposicionSobreHerencia.csproj|solutionrelative:composicionsobreherencia\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F1BC68-121B-41B4-AB99-0CAD4C4C5FA4}|ComposicionSobreHerencia\\ComposicionSobreHerencia.csproj|c:\\users\\franc\\desktop\\programacion\\composicionsobreherencia\\composicionsobreherencia\\models\\transportmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F1BC68-121B-41B4-AB99-0CAD4C4C5FA4}|ComposicionSobreHerencia\\ComposicionSobreHerencia.csproj|solutionrelative:composicionsobreherencia\\models\\transportmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F1BC68-121B-41B4-AB99-0CAD4C4C5FA4}|ComposicionSobreHerencia\\ComposicionSobreHerencia.csproj|C:\\Users\\franc\\Desktop\\Programacion\\ComposicionSobreHerencia\\composicionsobreherencia\\models\\enginemodels\\electricenginemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F1BC68-121B-41B4-AB99-0CAD4C4C5FA4}|ComposicionSobreHerencia\\ComposicionSobreHerencia.csproj|solutionrelative:composicionsobreherencia\\models\\enginemodels\\electricenginemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F1BC68-121B-41B4-AB99-0CAD4C4C5FA4}|ComposicionSobreHerencia\\ComposicionSobreHerencia.csproj|C:\\Users\\franc\\Desktop\\Programacion\\ComposicionSobreHerencia\\composicionsobreherencia\\models\\enginemodels\\combustionenginemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F1BC68-121B-41B4-AB99-0CAD4C4C5FA4}|ComposicionSobreHerencia\\ComposicionSobreHerencia.csproj|solutionrelative:composicionsobreherencia\\models\\enginemodels\\combustionenginemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F1BC68-121B-41B4-AB99-0CAD4C4C5FA4}|ComposicionSobreHerencia\\ComposicionSobreHerencia.csproj|C:\\Users\\franc\\Desktop\\Programacion\\ComposicionSobreHerencia\\composicionsobreherencia\\models\\drivermodels\\humandrivermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F1BC68-121B-41B4-AB99-0CAD4C4C5FA4}|ComposicionSobreHerencia\\ComposicionSobreHerencia.csproj|solutionrelative:composicionsobreherencia\\models\\drivermodels\\humandrivermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F1BC68-121B-41B4-AB99-0CAD4C4C5FA4}|ComposicionSobreHerencia\\ComposicionSobreHerencia.csproj|C:\\Users\\franc\\Desktop\\Programacion\\ComposicionSobreHerencia\\composicionsobreherencia\\models\\drivermodels\\robotdrivermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F1BC68-121B-41B4-AB99-0CAD4C4C5FA4}|ComposicionSobreHerencia\\ComposicionSobreHerencia.csproj|solutionrelative:composicionsobreherencia\\models\\drivermodels\\robotdrivermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F1BC68-121B-41B4-AB99-0CAD4C4C5FA4}|ComposicionSobreHerencia\\ComposicionSobreHerencia.csproj|C:\\Users\\franc\\Desktop\\Programacion\\ComposicionSobreHerencia\\composicionsobreherencia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F1BC68-121B-41B4-AB99-0CAD4C4C5FA4}|ComposicionSobreHerencia\\ComposicionSobreHerencia.csproj|solutionrelative:composicionsobreherencia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F1BC68-121B-41B4-AB99-0CAD4C4C5FA4}|ComposicionSobreHerencia\\ComposicionSobreHerencia.csproj|C:\\Users\\franc\\Desktop\\Programacion\\ComposicionSobreHerencia\\composicionsobreherencia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{80F1BC68-121B-41B4-AB99-0CAD4C4C5FA4}|ComposicionSobreHerencia\\ComposicionSobreHerencia.csproj|solutionrelative:composicionsobreherencia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F1BC68-121B-41B4-AB99-0CAD4C4C5FA4}|ComposicionSobreHerencia\\ComposicionSobreHerencia.csproj|C:\\Users\\franc\\Desktop\\Programacion\\ComposicionSobreHerencia\\composicionsobreherencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F1BC68-121B-41B4-AB99-0CAD4C4C5FA4}|ComposicionSobreHerencia\\ComposicionSobreHerencia.csproj|solutionrelative:composicionsobreherencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F1BC68-121B-41B4-AB99-0CAD4C4C5FA4}|ComposicionSobreHerencia\\ComposicionSobreHerencia.csproj|C:\\Users\\franc\\Desktop\\Programacion\\ComposicionSobreHerencia\\composicionsobreherencia\\interfaces\\idriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F1BC68-121B-41B4-AB99-0CAD4C4C5FA4}|ComposicionSobreHerencia\\ComposicionSobreHerencia.csproj|solutionrelative:composicionsobreherencia\\interfaces\\idriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F1BC68-121B-41B4-AB99-0CAD4C4C5FA4}|ComposicionSobreHerencia\\ComposicionSobreHerencia.csproj|C:\\Users\\franc\\Desktop\\Programacion\\ComposicionSobreHerencia\\composicionsobreherencia\\interfaces\\iengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F1BC68-121B-41B4-AB99-0CAD4C4C5FA4}|ComposicionSobreHerencia\\ComposicionSobreHerencia.csproj|solutionrelative:composicionsobreherencia\\interfaces\\iengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F1BC68-121B-41B4-AB99-0CAD4C4C5FA4}|ComposicionSobreHerencia\\ComposicionSobreHerencia.csproj|C:\\Users\\franc\\Desktop\\Programacion\\ComposicionSobreHerencia\\composicionsobreherencia\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F1BC68-121B-41B4-AB99-0CAD4C4C5FA4}|ComposicionSobreHerencia\\ComposicionSobreHerencia.csproj|solutionrelative:composicionsobreherencia\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HumanDriverModel.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\Programacion\\ComposicionSobreHerencia\\ComposicionSobreHerencia\\Models\\DriverModels\\HumanDriverModel.cs",
+              "RelativeDocumentMoniker": "ComposicionSobreHerencia\\Models\\DriverModels\\HumanDriverModel.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\Programacion\\ComposicionSobreHerencia\\ComposicionSobreHerencia\\Models\\DriverModels\\HumanDriverModel.cs",
+              "RelativeToolTip": "ComposicionSobreHerencia\\Models\\DriverModels\\HumanDriverModel.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAwA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:14:33.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CombustionEngineModel.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\Programacion\\ComposicionSobreHerencia\\ComposicionSobreHerencia\\Models\\EngineModels\\CombustionEngineModel.cs",
+              "RelativeDocumentMoniker": "ComposicionSobreHerencia\\Models\\EngineModels\\CombustionEngineModel.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\Programacion\\ComposicionSobreHerencia\\ComposicionSobreHerencia\\Models\\EngineModels\\CombustionEngineModel.cs",
+              "RelativeToolTip": "ComposicionSobreHerencia\\Models\\EngineModels\\CombustionEngineModel.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAwA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:11:26.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ElectricEngineModel.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\Programacion\\ComposicionSobreHerencia\\ComposicionSobreHerencia\\Models\\EngineModels\\ElectricEngineModel.cs",
+              "RelativeDocumentMoniker": "ComposicionSobreHerencia\\Models\\EngineModels\\ElectricEngineModel.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\Programacion\\ComposicionSobreHerencia\\ComposicionSobreHerencia\\Models\\EngineModels\\ElectricEngineModel.cs",
+              "RelativeToolTip": "ComposicionSobreHerencia\\Models\\EngineModels\\ElectricEngineModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwA4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:12:34.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransportModel.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\Programacion\\ComposicionSobreHerencia\\ComposicionSobreHerencia\\Models\\TransportModel.cs",
+              "RelativeDocumentMoniker": "ComposicionSobreHerencia\\Models\\TransportModel.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\Programacion\\ComposicionSobreHerencia\\ComposicionSobreHerencia\\Models\\TransportModel.cs",
+              "RelativeToolTip": "ComposicionSobreHerencia\\Models\\TransportModel.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAA5wAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:07:36.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainController.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\Programacion\\ComposicionSobreHerencia\\ComposicionSobreHerencia\\Controllers\\MainController.cs",
+              "RelativeDocumentMoniker": "ComposicionSobreHerencia\\Controllers\\MainController.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\Programacion\\ComposicionSobreHerencia\\ComposicionSobreHerencia\\Controllers\\MainController.cs",
+              "RelativeToolTip": "ComposicionSobreHerencia\\Controllers\\MainController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:15:38.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RobotDriverModel.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\Programacion\\ComposicionSobreHerencia\\ComposicionSobreHerencia\\Models\\DriverModels\\RobotDriverModel.cs",
+              "RelativeDocumentMoniker": "ComposicionSobreHerencia\\Models\\DriverModels\\RobotDriverModel.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\Programacion\\ComposicionSobreHerencia\\ComposicionSobreHerencia\\Models\\DriverModels\\RobotDriverModel.cs",
+              "RelativeToolTip": "ComposicionSobreHerencia\\Models\\DriverModels\\RobotDriverModel.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAQwA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:13:45.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\Programacion\\ComposicionSobreHerencia\\ComposicionSobreHerencia\\Form1.cs",
+              "RelativeDocumentMoniker": "ComposicionSobreHerencia\\Form1.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\Programacion\\ComposicionSobreHerencia\\ComposicionSobreHerencia\\Form1.cs",
+              "RelativeToolTip": "ComposicionSobreHerencia\\Form1.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAApwA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:24:00.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\Programacion\\ComposicionSobreHerencia\\ComposicionSobreHerencia\\Program.cs",
+              "RelativeDocumentMoniker": "ComposicionSobreHerencia\\Program.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\Programacion\\ComposicionSobreHerencia\\ComposicionSobreHerencia\\Program.cs",
+              "RelativeToolTip": "ComposicionSobreHerencia\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAADwvxAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:05:31.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\Programacion\\ComposicionSobreHerencia\\ComposicionSobreHerencia\\Form1.cs",
+              "RelativeDocumentMoniker": "ComposicionSobreHerencia\\Form1.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\Programacion\\ComposicionSobreHerencia\\ComposicionSobreHerencia\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ComposicionSobreHerencia\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:34:11.127Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDriver.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\Programacion\\ComposicionSobreHerencia\\ComposicionSobreHerencia\\Interfaces\\IDriver.cs",
+              "RelativeDocumentMoniker": "ComposicionSobreHerencia\\Interfaces\\IDriver.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\Programacion\\ComposicionSobreHerencia\\ComposicionSobreHerencia\\Interfaces\\IDriver.cs",
+              "RelativeToolTip": "ComposicionSobreHerencia\\Interfaces\\IDriver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:06:51.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IEngine.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\Programacion\\ComposicionSobreHerencia\\ComposicionSobreHerencia\\Interfaces\\IEngine.cs",
+              "RelativeDocumentMoniker": "ComposicionSobreHerencia\\Interfaces\\IEngine.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\Programacion\\ComposicionSobreHerencia\\ComposicionSobreHerencia\\Interfaces\\IEngine.cs",
+              "RelativeToolTip": "ComposicionSobreHerencia\\Interfaces\\IEngine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:06:36.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\Programacion\\ComposicionSobreHerencia\\ComposicionSobreHerencia\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ComposicionSobreHerencia\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\Programacion\\ComposicionSobreHerencia\\ComposicionSobreHerencia\\Form1.Designer.cs",
+              "RelativeToolTip": "ComposicionSobreHerencia\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T00:33:11.344Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
